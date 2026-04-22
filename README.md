@@ -35,4 +35,5 @@
 - 그룹별 통계
 
 ## 7주차
-- 
+- matplotlib 설치
+- matplotlib를 통한 꺽은선 그래프(Plot), 막대 그래프(bar), 산점도(Scatter Plot) 학습
